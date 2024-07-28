@@ -1,0 +1,3 @@
+int:It takes 4 bytes of memory
+bool:It takes 1 bytes of memory
+float:It takes 4 bytes of memory
